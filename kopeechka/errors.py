@@ -1,0 +1,2 @@
+class KopeechkaError(Exception):
+    pass
